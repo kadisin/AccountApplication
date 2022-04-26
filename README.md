@@ -9,3 +9,7 @@ INSTRUKCJA OBSŁUGI:
 4. Aplikacja jest gotowa do użytku.
 5. Dane aplikacji dotyczące łączenia się z bazą danych znajdują się w stałej _connectionData (path: AccountApplication.Database.DatabaseContext.cs) 
 
+
+Po pierwszym uruchomieniu aplikacji powinno pojawić się następujące okno:
+![obraz](https://user-images.githubusercontent.com/38622355/165308445-5c2a21f5-3e93-4983-9dc3-4dea98d162f8.png)
+
