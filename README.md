@@ -1,5 +1,5 @@
 # AccountApplication
-Aplikacja desktopowa przeznaczona do zarządzania kontami użytkowników. Aplikacja napisana przy użyciu WPF na platformie .NET przy użyciu wzorca MVVM. W skład aplikacji wchodzi także baza danych.
+Aplikacja desktopowa przeznaczona do zarządzania kontami użytkowników. Aplikacja napisana przy użyciu WPF na platformie .NET 6.0 przy użyciu wzorca MVVM. W skład aplikacji wchodzi także baza danych.
 
 
 INSTRUKCJA OBSŁUGI:
@@ -11,5 +11,7 @@ INSTRUKCJA OBSŁUGI:
 
 
 Po pierwszym uruchomieniu aplikacji powinno pojawić się następujące okno:
+
+
 ![obraz](https://user-images.githubusercontent.com/38622355/165308445-5c2a21f5-3e93-4983-9dc3-4dea98d162f8.png)
 
