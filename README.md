@@ -4,10 +4,11 @@ Aplikacja desktopowa przeznaczona do zarządzania kontami użytkowników. Aplika
 
 INSTRUKCJA OBSŁUGI:
 1. Należy uruchomić skrypt CreateDatabase_AccountDB_.sql, skrypt został utworzony przy pomocy Microsoft SQL Server Managment Studio.
-2. Należy sprawdzić czy po uruchomieniu skryptu zostały zwrócone trzy przykładowe wiersze z tabeli Account.
-3. Należy skompilować i uruchomić aplikację AccountApplication.
-4. Aplikacja jest gotowa do użytku.
-5. Dane aplikacji dotyczące łączenia się z bazą danych znajdują się w stałej _connectionData (path: AccountApplication.Database.DatabaseContext.cs) 
+  1a. Został przesłany także skrypt AccountTableCreateScript.sql, tworzący już konkretnie wykorzystywaną w aplikacji tabelę.
+3. Należy sprawdzić czy po uruchomieniu skryptu zostały zwrócone trzy przykładowe wiersze z tabeli Account.
+4. Należy skompilować i uruchomić aplikację AccountApplication.
+5. Aplikacja jest gotowa do użytku.
+6. Dane aplikacji dotyczące łączenia się z bazą danych znajdują się w stałej _connectionData (path: AccountApplication.Database.DatabaseContext.cs) 
 
 
 Po pierwszym uruchomieniu aplikacji powinno pojawić się następujące okno:
